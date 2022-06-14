@@ -1,7 +1,7 @@
 # SOBRE mim
 
 - 👋 olá, meu nome é @gustavo
-- 👀 meu email de contato é gustavo.walczak@escola.pr.gov.br.
+- 👀 meu email de contato é [email] (gustavo.walczak@escola.pr.gov.br)
 - 🌱 esrou interessado em aprender novas linguagens
 - 💞️ eu estou aprendendo a programar a linguagem JavaScript e Scratch
 
